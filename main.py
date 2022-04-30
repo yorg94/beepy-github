@@ -7,7 +7,7 @@ def print_cards(functions):
 
 
 functions = [
-	buberto_bunzales,
+	buberto_bunzales, Yamil_Romero
 ]
 
 print_cards(functions)
